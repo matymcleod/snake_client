@@ -23,11 +23,11 @@ const handleUserInput = (data) => {
     }
 
     if (data === '1') {
-      connection.write('Say: tsss ss sssss tsssss!');
+      connection.write('Say: tsss ss ssss');
     }
 
     if (data === '2') {
-      connection.write('Say: Ss! sssssssss sssssss sss');
+      connection.write('Say: Ss! sssssssss');
     }
 
     if (data === '3') {
